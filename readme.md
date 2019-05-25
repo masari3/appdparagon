@@ -1,5 +1,7 @@
 # Default Auth Laravel
 ## Download Zip atau Clone projek
+`https://github.com/saadbi/appdparagon.git dparagon`
+
 ## Migrate database
 `Buka CMD / Terminal`<br/>
 `php artisan migrate`
